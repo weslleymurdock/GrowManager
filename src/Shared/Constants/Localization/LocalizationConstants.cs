@@ -13,11 +13,11 @@
                 Code = "fr-FR",
                 DisplayName = "French"
             },
-            new LanguageCode
-            {
-                Code = "km_KH",
-                DisplayName= "Khmer"
-            },
+            //new LanguageCode
+            //{
+            //    Code = "km_KH",
+            //    DisplayName= "Khmer"
+            //},
             new LanguageCode
             {
                 Code = "de-DE",
