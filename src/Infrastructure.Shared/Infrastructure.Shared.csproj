@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFramework>net7.0</TargetFramework>
     <RootNamespace>GrowManager.Infrastructure.Shared</RootNamespace>
     <AssemblyName>GrowManager.Infrastructure.Shared</AssemblyName>
   </PropertyGroup>

@@ -97,4 +97,5 @@ namespace GrowManager.Client.Infrastructure.Managers.Preferences
             await _localStorageService.SetItemAsync(StorageConstants.Local.Preference, preference as ClientPreference);
         }
     }
+    
 }
