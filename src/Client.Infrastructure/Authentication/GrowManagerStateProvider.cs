@@ -13,12 +13,12 @@ using System.Threading.Tasks;
 
 namespace GrowManager.Client.Infrastructure.Authentication
 {
-    public class BlazorHeroStateProvider : AuthenticationStateProvider
+    public class GrowManagerStateProvider : AuthenticationStateProvider
     {
         private readonly HttpClient _httpClient;
         private readonly ILocalStorageService _localStorage;
 
-        public BlazorHeroStateProvider(
+        public GrowManagerStateProvider(
             HttpClient httpClient,
             ILocalStorageService localStorage)
         {

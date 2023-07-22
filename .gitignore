@@ -362,3 +362,4 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /workload-install.ps1
+/src/Client.App/.meteor/generated
